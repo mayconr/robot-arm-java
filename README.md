@@ -1,2 +1,2 @@
 # robot-arm-java
-Java program which control robot arm  through arduino serial
+Java program which controls robot arm  through arduino serial
